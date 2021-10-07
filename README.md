@@ -1,5 +1,5 @@
 # HHS/THUAS LaTeX Template
 
-LaTeX Template voor De Haagse Hogeschool
+LaTeX template voor De Haagse Hogeschool.
 
-LaTeX Template for The Hague University of Applied Sciences
+LaTeX template for The Hague University of Applied Sciences.
